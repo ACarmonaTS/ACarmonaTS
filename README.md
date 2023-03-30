@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>  <ul>  <li>Firebase</li><li>MongoDB</li>  </ul>  </td>
-    <td colspan="3">  <li><center>MySQL</center></li>  </td>
+    <td colspan="3">  <ul>  <li>MySQL</li>  </ul>  </td>
   </tr>
   <tr>
     <td>  <ul>  <li>React</li><li>NodeJS</li><li>Express</li>  </ul>  </td>
@@ -28,7 +28,7 @@
         <li>Lenguaje C para PIC’s con IDE MPLAB de Microchip Technologies</li>
       </ul>
     </td>
-    <td>  <li>Flutter</li>  </td>
-    <td>  <li>C++</li>  </td>
+    <td>  <ul>  <li>Flutter</li>  </ul>  /td>
+    <td>  <ul>  <li>C++</li>  </ul>  </td>
   </tr>
 </table>
