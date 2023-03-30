@@ -29,7 +29,12 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
       </ul>
     </td>
     <td><li>LabVIEW</li></td>
-    <td colspan="2"><li>C#</li>/td>
+    <td colspan="2" rowspan="2">
+      <ul>
+        <li>C#</li>
+        <li>JavScript</li>
+      </ul>
+    </td>
   </tr>
   <tr>
     <td colspan="2">Ocupa 3 columnas</td>
