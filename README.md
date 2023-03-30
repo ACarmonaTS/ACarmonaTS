@@ -12,17 +12,13 @@
   </tr>
   <tr>
     <th rowspan="3">Tecnologías aplicadas</td>
-    <td>
-  * HTML
-  * CSS
-  * JavaScript
-</td>
+    <td> <li>HTML</li><li>CSS</li><li>JavaScript</li>  </td>
     <td>  <ul>  <li>LabVIEW</li><li>DQMH Framework</li><li>G Web Development Software</li>  </ul>  </td>
     <td colspan="2">  <ul>  <li>C#</li><li>Java</li>  </ul>  </td>
   </tr>
   <tr>
     <td>  <ul>  <li>Firebase</li><li>MongoDB</li>  </ul>  </td>
-    <td colspan="3">  <li>MySQL</li>  </td>
+    <td colspan="3">  <li><center>MySQL</center></li>  </td>
   </tr>
   <tr>
     <td>  <ul>  <li>React</li><li>NodeJS</li><li>Express</li>  </ul>  </td>
