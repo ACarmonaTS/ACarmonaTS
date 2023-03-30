@@ -1,9 +1,9 @@
 *** Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatización y Control
 
-<table>
+<table style="text-align: center;">
   <tr>
     <th></th>
-    <th>Navegadores Web\:</td>
+    <th>Navegadores Web</td>
     <th>Automatización y Control</td>
     <th>Dispositivos móviles</td>
     <th>Aplicaciones de Escritorio</td>
