@@ -28,7 +28,7 @@
         <li>Lenguaje C para PIC’s con IDE MPLAB de Microchip Technologies</li>
       </ul>
     </td>
-    <td>  <ul>  <li>Flutter</li>  </ul>  /td>
+    <td>  <ul>  <li>Flutter</li>  </ul>  </td>
     <td>  <ul>  <li>C++</li>  </ul>  </td>
   </tr>
 </table>
