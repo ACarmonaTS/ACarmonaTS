@@ -23,3 +23,14 @@ Desarrollo de software para diferentes entornos, aunque me gustaría enfocarlo a
     <td colspan="3">Ocupa 3 columnas</td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td rowspan="2">Ocupa 2 filas</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+  </tr>
+</table>
