@@ -1,6 +1,12 @@
 *** Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatización y Control
 
-<table style="text-align: center;">
+<style>
+  table {
+    text-align: center;
+  }
+</style>
+
+<table>
   <tr>
     <th></th>
     <th>Navegadores Web</td>
