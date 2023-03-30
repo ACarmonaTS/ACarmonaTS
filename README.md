@@ -1,5 +1,5 @@
-### Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatización y Control
-
+![port](https://user-images.githubusercontent.com/113727513/228705372-b3a52b04-2013-4c22-8f13-9c66003533e4.jpg)
+## Desarrollo software para diferentes entornos y me gusta enfocarlo a la Automatización y Control
 
 
 <table>
@@ -32,3 +32,4 @@
     <td>  <ul>  <li>C++</li>  </ul>  </td>
   </tr>
 </table>
+
