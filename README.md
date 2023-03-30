@@ -7,3 +7,19 @@ Desarrollo de software para diferentes entornos, aunque me gustaría enfocarlo a
 | MongoDB | MySQL | MySQL | MySQL |
 | React NodeJS Express | PLC 1200 Siemens | Flutter |  |
 |  | C para PIC’s con IDE MPLAB de Microchip Technologies |  |  |
+
+
+<table>
+  <tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td colspan="2">Ocupa 2 columnas</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td colspan="3">Ocupa 3 columnas</td>
+  </tr>
+</table>
