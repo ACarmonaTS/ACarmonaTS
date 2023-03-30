@@ -32,7 +32,7 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
     <td colspan="2" rowspan="2">
       <ul>
         <li>C#</li>
-        <li>JavScript</li>
+        <li>Java</li>
       </ul>
     </td>
   </tr>
@@ -43,6 +43,10 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
     <td colspan="3">Ocupa 3 columnas</td>
   </tr>
 </table>
+
+table{
+  text-align: center;
+}
 
 
 <table>
