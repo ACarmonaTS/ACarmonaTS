@@ -1,6 +1,5 @@
 ![port](https://user-images.githubusercontent.com/113727513/228705372-b3a52b04-2013-4c22-8f13-9c66003533e4.jpg)
-## Desarrollo software para diferentes entornos y me gusta enfocarlo a la Automatización y Control
-
+## Desarrollo software para diferentes entornos y me gusta enfocarlo a la Automatización y Control o cualquier otra área que implique nuevos desafíos, mira que tecnologías utilizo y no dudes en enviarme un mensaje por [whats](https://wa.me/525624314130)
 
 <table>
   <tr>
