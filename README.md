@@ -28,8 +28,8 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
         <li>JavaScript</li>
       </ul>
     </td>
-    <td colspan="2">Ocupa 2 columnas</td>
-    <td>4</td>
+    <td><li>LabVIEW</li></td>
+    <td colspan="2"><li>C#</li>/td>
   </tr>
   <tr>
     <td colspan="2">Ocupa 3 columnas</td>
