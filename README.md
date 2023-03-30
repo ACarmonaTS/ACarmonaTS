@@ -1,4 +1,5 @@
-Desarrollo de software para diferentes entornos, aunque me gustaría enfocarlo a la Automatización y Control
+Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatización y Control
+
 
 | Navegadores Web | Automatización y Control | Dispositivos móviles | Aplicaciones de Escritorio |
 | --------------- | --------------- |  --------------- |  --------------- |
@@ -11,9 +12,13 @@ Desarrollo de software para diferentes entornos, aunque me gustaría enfocarlo a
 
 <table>
   <tr>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+    <td colspan="4">Ocupa 2 columnas</td>
+  </tr>
+  <tr>
+    <th>Navegadores Web</td>
+    <th>Automatización y Control</td>
+    <th>Dispositivos móviles</td>
+    <th>Aplicaciones de Escritorio</td>
   </tr>
   <tr>
     <td colspan="2">Ocupa 2 columnas</td>
