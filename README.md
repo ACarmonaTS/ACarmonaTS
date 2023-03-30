@@ -21,6 +21,13 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
     <th>Aplicaciones de Escritorio</td>
   </tr>
   <tr>
+    <td>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+      </ul>
+    </td>
     <td colspan="2">Ocupa 2 columnas</td>
     <td>4</td>
   </tr>
