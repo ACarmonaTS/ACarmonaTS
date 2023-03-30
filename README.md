@@ -1,18 +1,5 @@
 Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatización y Control
 
-
-| Navegadores Web | Automatización y Control | Dispositivos móviles | Aplicaciones de Escritorio |
-| --------------- | --------------- |  --------------- |  --------------- |
-| HTML CSS JavaScript | LabVIEW | C# | C# |
-| Firebase | G Web Development Software | Java | Java |
-| MongoDB | MySQL | MySQL | MySQL |
-| React NodeJS Express | PLC 1200 Siemens | Flutter |  |
-|  | C para PIC’s con IDE MPLAB de Microchip Technologies |  |  |
-
-table {
-  text-align: center;
-}
-
 <table>
   <tr>
     <td colspan="4">Ocupa 2 columnas</td>
@@ -34,6 +21,7 @@ table {
     <td>
       <ul>
         <li>LabVIEW</li>
+        <li>DQMH Framework</li>
         <li>G Web Development Software</li>
       </ul>
     </td>
@@ -51,13 +39,26 @@ table {
         <li>MongoDB</li>
       </ul>
     </td>
-    <td colspan="2"><li>MySQL</li></td>
+    <td colspan="3"><li>MySQL</li></td>
   </tr>
   <tr>
-    <td colspan="2">Ocupa 3 columnas</td>
-  </tr>
-  <tr>
-    <td colspan="3">Ocupa 3 columnas</td>
+    <td>
+      <ul>
+        <li>React</li>
+        <li>NodeJS</li>
+        <li>Express</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>PLC 1200 Siemens</li>
+        <li>Lenguaje C para PIC’s con IDE MPLAB de Microchip Technologies</li>
+      </ul>
+    </td>
+    <td>
+      <li>Flutter</li>
+    </td>
+    <td><li>C++</li></td>
   </tr>
 </table>
 
