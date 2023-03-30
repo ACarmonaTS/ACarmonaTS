@@ -34,6 +34,9 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
   <tr>
     <td colspan="2">Ocupa 3 columnas</td>
   </tr>
+  <tr>
+    <td colspan="3">Ocupa 3 columnas</td>
+  </tr>
 </table>
 
 
