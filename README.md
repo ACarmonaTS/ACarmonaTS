@@ -4,15 +4,14 @@
 
 <table>
   <tr>
-    <th></th>
+    <th rowspan="4">Tecnologías<br>aplicadas</td>
     <th>Navegadores Web</td>
     <th>Automatización y Control</td>
-    <th>Dispositivos móviles</td>
-    <th>Aplicaciones de Escritorio</td>
+    <th>Dispositivos<br>móviles</td>
+    <th>Aplicaciones<br>de Escritorio</td>
   </tr>
   <tr>
-    <th rowspan="3">Tecnologías aplicadas</td>
-    <td> <li>HTML</li><li>CSS</li><li>JavaScript</li>  </td>
+    <td>  <ul>   <li>HTML</li><li>CSS</li><li>JavaScript</li>  </ul>  </td>
     <td>  <ul>  <li>LabVIEW</li><li>DQMH Framework</li><li>G Web Development Software</li>  </ul>  </td>
     <td colspan="2">  <ul>  <li>C#</li><li>Java</li>  </ul>  </td>
   </tr>
@@ -24,8 +23,9 @@
     <td>  <ul>  <li>React</li><li>NodeJS</li><li>Express</li>  </ul>  </td>
     <td>  
       <ul>
-        <li>PLC 1200 Siemens</li>
-        <li>Lenguaje C para PIC’s con IDE MPLAB de Microchip Technologies</li>
+        <li>PLC 1200 y HMI Siemens - TIA Portal</li>
+        <li>Schneider Relé Inteligente</li>
+        <li>Lenguaje C en IDE de Microchip Technologies</li>
       </ul>
     </td>
     <td>  <ul>  <li>Flutter</li>  </ul>  </td>
