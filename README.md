@@ -31,13 +31,27 @@ table {
         <li>JavaScript</li>
       </ul>
     </td>
-    <td><li>LabVIEW</li></td>
-    <td colspan="2" rowspan="2">
+    <td>
+      <ul>
+        <li>LabVIEW</li>
+        <li>G Web Development Software</li>
+      </ul>
+    </td>
+    <td colspan="2">
       <ul>
         <li>C#</li>
         <li>Java</li>
       </ul>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Firebase</li>
+        <li>MongoDB</li>
+      </ul>
+    </td>
+    <td colspan="2"><li>MySQL</li></td>
   </tr>
   <tr>
     <td colspan="2">Ocupa 3 columnas</td>
