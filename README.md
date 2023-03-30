@@ -9,7 +9,7 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
     <th>Aplicaciones de Escritorio</td>
   </tr>
   <tr>
-    <td rowspan="3">Ocupa 2 filas</td>
+    <th rowspan="3">Tecnologías aplicadas</td>
     <td>
       <ul>
         <li>HTML</li>
