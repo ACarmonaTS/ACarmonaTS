@@ -2,15 +2,14 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
 
 <table>
   <tr>
-    <td colspan="4">Ocupa 2 columnas</td>
-  </tr>
-  <tr>
+    <th></th>
     <th>Navegadores Web</td>
     <th>Automatización y Control</td>
     <th>Dispositivos móviles</td>
     <th>Aplicaciones de Escritorio</td>
   </tr>
   <tr>
+    <td rowspan="3">Ocupa 2 filas</td>
     <td>
       <ul>
         <li>HTML</li>
@@ -59,18 +58,5 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
       <li>Flutter</li>
     </td>
     <td><li>C++</li></td>
-  </tr>
-</table>
-
-
-
-
-<table>
-  <tr>
-    <td rowspan="2">Ocupa 2 filas</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>2</td>
   </tr>
 </table>
