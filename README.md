@@ -12,7 +12,11 @@
   </tr>
   <tr>
     <th rowspan="3">Tecnologías aplicadas</td>
-    <td>  * HTML * CSS * JavaScript  </td>
+    <td>
+  * HTML
+  * CSS
+  * JavaScript
+</td>
     <td>  <ul>  <li>LabVIEW</li><li>DQMH Framework</li><li>G Web Development Software</li>  </ul>  </td>
     <td colspan="2">  <ul>  <li>C#</li><li>Java</li>  </ul>  </td>
   </tr>
