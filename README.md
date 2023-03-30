@@ -9,6 +9,9 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
 | React NodeJS Express | PLC 1200 Siemens | Flutter |  |
 |  | C para PIC’s con IDE MPLAB de Microchip Technologies |  |  |
 
+table {
+  text-align: center;
+}
 
 <table>
   <tr>
@@ -44,9 +47,7 @@ Desarrollo software para diferentes entornos, me gusta enfocarlo a la Automatiza
   </tr>
 </table>
 
-table{
-  text-align: center;
-}
+
 
 
 <table>
