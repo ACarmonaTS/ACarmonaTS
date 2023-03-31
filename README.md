@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th rowspan="4">Tecnologías<br>aplicadas</td>
-    <th>Navegadores Web</td>
+    <th>Navegadores Web<br>(Aprendiendo...)</td>
     <th>Automatización y Control</td>
     <th>Dispositivos<br>móviles</td>
     <th>Aplicaciones<br>de Escritorio</td>
@@ -36,10 +36,14 @@
 
 ## Proyectos Web
 
-* 1 ### [Landing page](https://github.com/ACarmonaTS/Proyecto1_Landing_de_venta)
-  * HTML CSS
-  * 
-* 2
-* 
-### [Landing page](https://github.com/ACarmonaTS/Proyecto1_Landing_de_venta)
+* [Landing page](https://github.com/ACarmonaTS/Proyecto1_Landing_de_venta)
+  * HTML - CSS
+* [AplicaCión CRUD](https://github.com/ACarmonaTS/Proyecto2_Aplicacion_CRUD)
+  * HTML - CSS - JavaScript
+* [Tablero de datos "Dashboard"](https://github.com/ACarmonaTS/Proyecto-3-Dashboard-App-Eq2)
+  * HTML - CSS - JavaScript - Node.JS - Consumo de API - Chart.JS
+* [Restaurant App](https://github.com/ACarmonaTS/Proyecto-4-Restaurant-App)
+  * HTML - CSS - JavaScript - React
+
+
 
