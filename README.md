@@ -37,5 +37,5 @@
 ## Proyectos Web
 
 ### [Landing page](https://github.com/ACarmonaTS/Proyecto1_Landing_de_venta)
-##### HTML, CSS
+HTML, CSS
 
