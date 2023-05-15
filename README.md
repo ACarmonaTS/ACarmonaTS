@@ -1,5 +1,5 @@
 ![port](https://user-images.githubusercontent.com/113727513/228705372-b3a52b04-2013-4c22-8f13-9c66003533e4.jpg)
-## Desarrollo software para diferentes entornos y me gusta enfocarlo a la Automatización, Robótica, Control o cualquier otra área que implique nuevos desafíos, mira que tecnologías utilizo y no dudes en enviarme un mensaje por [WhatsApp](https://wa.me/525624314130)
+## Desarrollo software para diferentes entornos y me gusta enfocarlo a la Automatización, Robótica, Control o cualquier otra área que implique nuevos desafíos, mira que tecnologías utilizo y si tienes dudas no enviarme un mensaje por [WhatsApp](https://wa.me/525624314130) para ayudarte.
 
 <table>
   <tr>
@@ -31,19 +31,4 @@
     <td>  <ul>  <li>C++</li>  </ul>  </td>
   </tr>
 </table>
-
-## Lo más reciente:
-
-## Proyectos Web
-
-* [Landing page](https://github.com/ACarmonaTS/Proyecto1_Landing_de_venta)
-  * HTML - CSS
-* [AplicaCión CRUD](https://github.com/ACarmonaTS/Proyecto2_Aplicacion_CRUD)
-  * HTML - CSS - JavaScript
-* [Tablero de datos "Dashboard"](https://github.com/ACarmonaTS/Proyecto-3-Dashboard-App-Eq2)
-  * HTML - CSS - JavaScript - Node.JS - Consumo de API - Chart.JS
-* [Restaurant App](https://github.com/ACarmonaTS/Proyecto-4-Restaurant-App)
-  * HTML - CSS - JavaScript - React
-
-
 
