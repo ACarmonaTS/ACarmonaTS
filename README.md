@@ -1,4 +1,5 @@
-![image](https://github.com/ACarmonaTS/ACarmonaTS/assets/113727513/dc2888b2-8f3c-463d-a9c9-6db6f44ae997)
+![atcs](https://github.com/ACarmonaTS/ACarmonaTS/assets/113727513/e51e87e2-f1b8-4d98-89dd-b617ad4957d3)
+
 ## Desarrollo software para diferentes entornos y me gusta enfocarlo a la Automatización, Robótica, Control o cualquier otra área que implique nuevos desafíos, mira que tecnologías utilizo y si tienes dudas no enviarme un mensaje por [WhatsApp](https://wa.me/525624314130) para ayudarte.
 
 <table>
